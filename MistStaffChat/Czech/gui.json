@@ -1,0 +1,13 @@
+{
+   "symbol": {
+      "button": "Změnit Symbol",
+      "success": "&aÚspěšně nastaven nový symbol!",
+      "prompt": "Zadej nový symbol"
+   },
+   "format": {
+      "button": "Změnit Format",
+      "success": "&aÚspěšně nastaven nový format!",
+      "prompt": "Zadej nový format"
+   },
+   "title": "StaffChat Editor"
+}
