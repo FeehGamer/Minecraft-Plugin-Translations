@@ -1,0 +1,17 @@
+{
+   "staffchat": {
+      "symbol": "#",
+      "format": "&8[&e&lSTAFF&8] &e{USERNAME} &7&l>> &7{MESSAGE}",
+      "off": "&8[&e&lSTAFF&8] &7Staffchat úspešne &cvypnutý&7!",
+      "on": "&8[&e&lSTAFF&8] &7Staffchat úspešne &azapnutý&7!"
+   },
+   "success": {
+      "symbol": "&aÚspešne nastavený symbol na {SYMBOL}!",
+      "format": "&aÚspešne nastavený nový format!"
+   },
+   "errors": {
+      "console": "&cIba hráči môžu použiť tento príkaz.",
+      "permission": "&cNa toto nemáš permissie.",
+      "empty": "&cSpráva nemôže byť prázdna!"
+   }
+}
