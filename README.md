@@ -8,6 +8,6 @@ I will be more than happy if you send a pull request so we can add more language
     - MistStaffChat (Plugin made by me)
     - ShopGUIPlus (Plugin made by brc)
     - TokenManager (Plugin made by Realized)
-    - And more!
+    - And there will be more!
  
 Note: I am not affiliated with any of the plugin authors of Mojang
