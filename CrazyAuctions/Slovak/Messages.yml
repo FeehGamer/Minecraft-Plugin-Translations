@@ -1,0 +1,36 @@
+Messages:
+  Player-Only: '&cTento príkaz môžu používať len hráči.'
+  Reload: '&7Práve ste načítali súbory Crazy Auctions.'
+  Need-More-Money: '&cYou need to of &a$%money_need%&c.'
+  Inventory-Full: "&cVaše zásoby sú príliš plné. uvoľnite, prosím, miesto na nákup."
+  No-Permission: '&cNemáte oprávnenie používať tento príkaz!'
+  Not-Online: "&cTento hráč nie je online."
+  Doesnt-Have-Item-In-Hand: "&cMusíš mať v ruke nejaký predmet."
+  Not-A-Number: '&c%arg% nie je číslo.'
+  Got-Item-Back: '&7Vaša položka bola vrátená.'
+  Cancelled-Item: '&7Zrušili ste položku v aukčnom zozname, vráťte svoje položky w/ ah expired.'
+  Item-Has-Expired: '&7Predmet, ktorý máte v Crazy Auctions, vypršal.'
+  Admin-Force-Cancelled: '&7Zrušili ste predaj.'
+  Admin-Force-Cancelled-To-Player: '&cJedna z vašich položiek bola násilne zrušená správcom.'
+  Item-Doesnt-Exist: '&cTáto položka už nie je v aukciách craze.'
+  Max-Items: '&cNemôžete uviesť viac položiek v Crazy Auctions.'
+  Item-BlackListed: '&cTáto položka sa tu nesmie predávať.'
+  Item-Damaged: "&cTáto položka je poškodená a nemôže sa tu predať."
+  Sold-Msg: "&7Dekujeme vám za nákup tejto položky. "
+  Bid-More-Money: "Vaša ponuka je príliš nízka, ponúknite viac."
+  Not-A-Currency: "&cToto nie je mena. Použite peniaze alebo tokeny." #Remove tokens, if you dont have TokenManager
+  Sell-Price-To-Low: "Vaša predajná cena je príliš nízka, minimálna cena je &a$10&c."
+  Sell-Price-To-High: "&cVaša predajná cena je príliš vysoká, maximum je &a$1000000&c."
+  Bid-Price-To-Low: "&cVaša počiatočná cena je príliš nízka, minimum je &a$100&c."
+  Bid-Price-To-High: '&cVaša počiatočná cena je príliš vysoká, maximálna je &a$1000000&c.'
+  Bought-Item: '&7Práve ste si kúpili položku za &a$%cena%&7.'
+  Win-Bidding: "&7Práve ste vyhrali ponuku za &a$%cenu%&7. Do / Ah Zbierajte a získajte svoju výhru."
+  Player-Bought-Item: '&7%player% kúpil váš predmet za &a$%price%.'
+  Someone-Won-Players-Bid: '&7%player% vyhral vašu položku s ponukou &a$%price%.'
+  Added-Item-To-Auction: '&7Práve ste pridali položku do craze aukcií za &a$%price%&7.'
+  Bid-Msg: '&7Práve ste prihlásili &a$%Bid%&7na túto položku.'
+  Selling-Disabled: "&cMožnosť predaja je zakázaná."
+  Bidding-Disabled: "&cBidding je zakázaný."
+  CrazyAuctions-Help: '&c/ah help'
+  CrazyAuctions-View: '&c/ah view <player>'
+  CrazyAuctions-Sell-Bid: '&c/ah sell/bid <cena> [množstvo položiek]'
